@@ -1,8 +1,23 @@
 [package]
-name = "cluster-normals"
+name = "cluster-cone"
 version = "0.1.0"
 authors = ["Jasper Bekkers <bekkers@gmail.com>"]
 edition = "2018"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/Jasper-Bekkers/cluster-cone"
+repository = "https://github.com/Jasper-Bekkers/cluster-cone"
+keywords = ["rendering", "cone", "cluster"]
+categories = ["rendering"]
+include = [
+    "src/*.rs",
+    "Cargo.toml",
+]
+documentation = "https://docs.rs/cluster-cone"
+description = "Generate cones for clusters of triangles using the algorithm from https://github.com/zeux/meshoptimizer"
+
+[badges]
+maintenance = { status = "actively-developed" }
 
 [dependencies]
-nalgebra-glm = "0.4.0 "
+nalgebra-glm = "0.4.0"
