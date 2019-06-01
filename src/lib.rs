@@ -1,6 +1,5 @@
 pub use nalgebra_glm as glm;
 
-
 #[derive(Debug)]
 pub struct Triangle {
     pub p0: glm::Vec3,
