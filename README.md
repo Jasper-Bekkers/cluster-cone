@@ -1,5 +1,6 @@
 cluster-cone
 ========
+[![travis-ci.com](https://travis-ci.com/Jasper-Bekkers/cluster-cone.svg?branch=master)](https://travis-ci.com/Jasper-Bekkers/cluster-cone)
 [![Latest version](https://img.shields.io/crates/v/cluster-cone.svg)](https://crates.io/crates/cluster-cone)
 [![Documentation](https://docs.rs/cluster-cone/badge.svg)](https://docs.rs/cluster-cone)
 [![](https://tokei.rs/b1/github/Jasper-Bekkers/cluster-cone)](https://github.com/Jasper-Bekkers/cluster-cone)
